@@ -1,11 +1,6 @@
 # COP5615 : DISTRIBUTED SYSTEMS - PASTRY PROTOCOL
 The goal of this project is to implement in Elixir using the actor model the pastry protocol and a simple object access service to prove its usefulness.
 
-Authors
-
-Shikha Mehta (UF ID 4851 9256)
-Aniketh Sukhtankar (UF ID 7819 9584)
-
 
 CONTENTS OF THIS FILE 
 ---------------------
@@ -22,8 +17,8 @@ REQUIRED ANSWERS
 ----------------
 * Team members
 
-  Shikha Mehta (UF ID 4851 9256) shikha.mehta@ufl.edu
-  Aniketh Sukhtankar (UF ID 7819 9584) asukhtankar@ufl.edu
+  Shikha Mehta (UF ID 4851 9256)
+  Aniketh Sukhtankar (UF ID 7819 9584)
 
 * What is working
 
