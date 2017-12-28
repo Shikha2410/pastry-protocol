@@ -1,0 +1,9 @@
+{application,project3,
+             [{applications,[kernel,stdlib,elixir,logger]},
+              {description,"project3"},
+              {modules,['Elixir.PastrySimulator.Implementation',
+                        'Elixir.PastrySimulator.Main',
+                        'Elixir.PastrySimulator.Pastry_Default_Actor']},
+              {registered,[]},
+              {vsn,"0.1.0"},
+              {extra_applications,[logger]}]}.
